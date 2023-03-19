@@ -1,6 +1,6 @@
 int ir_input = 2;
-int faucet_control_pos = 3;
-int faucet_control_neg = 4;
+int faucet_control_pos = 4;
+int faucet_control_neg = 5;
 
 int last_on_time = 0;
 int last_off_time = -100000000;
